@@ -1,0 +1,36 @@
+body {
+    color: rgb(85, 43, 4);
+    background: rgb(250, 157, 157);
+    margin: 0px;
+    font-family: "Playwrite CU", cursive;
+}
+
+header {
+
+    border-bottom: solid 2px rgb(85, 43, 4);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(85, 43, 4);
+}
+section {
+background-image: rgb(184,156,213);
+padding-bottom: 80px ;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+.chamada-texto {
+margin-right: 5%;
+margin-left: 5%;
+}
+img{
+    height: 100px;
+    opacity: 0.5
+}
+.chamada-video{
+margin-right: 5%;    
+}
+.flor img:hover{
+opacity: 1.0;
+border: 3px solid brown;
+}
